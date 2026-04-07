@@ -1,4 +1,4 @@
-# Control Remoto de Auto - oli
+# Control Remoto de Auto
 
 ## Descripción
 
